@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovingPicLeftRight", "MovingPicLeftRight\MovingPicLeftRight.csproj", "{4C927CA9-3335-4036-B0FC-F7A7DD655983}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C927CA9-3335-4036-B0FC-F7A7DD655983}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C927CA9-3335-4036-B0FC-F7A7DD655983}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C927CA9-3335-4036-B0FC-F7A7DD655983}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C927CA9-3335-4036-B0FC-F7A7DD655983}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E2EA9BE2-A9FD-4917-B654-A26ACD3D2073}
+	EndGlobalSection
+EndGlobal
